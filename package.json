@@ -1,0 +1,23 @@
+{
+  "name": "atomica",
+  "version": "0.0.0",
+  "description": "The Atomic CSS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PragmaDevelopers/Atomica.git"
+  },
+  "keywords": [
+    "CSS",
+    "Framework"
+  ],
+  "author": "Pragma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PragmaDevelopers/Atomica/issues"
+  },
+  "homepage": "https://github.com/PragmaDevelopers/Atomica#readme"
+}
